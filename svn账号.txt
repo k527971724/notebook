@@ -1,0 +1,12 @@
+唐海 (tanghai) 2018/09/26 17:54:24
+http://172.16.100.8/svn/project/TraineeGroup/ClientFramework  
+客户端框架代码一组svn （黄杏、吴磊、林键湖、高晓思）http://172.16.100.8/svn/project/TraineeGroup/Group1 
+二组svn （张锦涛，黄柏茗，吴捷豪，王首强）http://172.16.100.8/svn/project/TraineeGroup/Group2 
+账号密码 都是自己名字的全拼
+客户端框架怎么使用可以看，这个是我开源在github上的，有很多别人写得教程
+https://github.com/egametang/ET
+唐海 (tanghai) 2018/09/26 17:56:21
+可以在这个客户端框架的基础上实现五子棋功能，有问题随时问我
+后端_林光亮 (linguangliang) 2018/09/26 18:03:42
+http://172.16.100.8/svn/project/TraineeGroup/ServerFramework 
+服务端框架代码CoreDoc下有文档，有问题可以问我
