@@ -1,0 +1,30 @@
+查看进程状态
+ps -ef |grep redis
+
+
+
+
+列出系统上所有的网络套接字连接情况
+netstat
+
+TCP套接字
+netstat -at
+a	所有
+t	TCP
+
+监听中的套接字
+netstat -tnl
+l	listen
+
+对应的进程名和进程号
+sudo netstat -nlpt
+p	进程信息
+
+
+
+
+
+查看端口占用linux
+lsof -i:端口号
+windows
+netstat -aon|findstr "8888"
